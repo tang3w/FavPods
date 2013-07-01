@@ -5,7 +5,10 @@ Pod::Spec.new do |s|
   s.summary  = 'A Very High Performance Objective-C JSON Library.'
   s.homepage = 'https://github.com/johnezang/JSONKit'
   s.author   = 'John Engelhart'
-  s.source   = { :git => 'https://github.com/johnezang/JSONKit.git', :tag => 'v1.4' }
+  s.source   = {
+    :git    => 'https://github.com/johnezang/JSONKit.git',
+    :commit => '82157634ca0ca5b6a4a67a194dd11f15d9b72835'
+  }
 
   s.source_files = 'JSONKit.*'
   s.requires_arc = false
