@@ -1,5 +1,6 @@
 Pod::Spec.new do |s|
   s.name         = 'MBProgressHUD'
+  s.version      = '0.7'
   s.summary      = 'An iOS activity indicator view.'
   s.description  = <<-DESC
                     MBProgressHUD is an iOS drop-in class that displays a translucent HUD 
@@ -12,7 +13,7 @@ Pod::Spec.new do |s|
   s.author       = { 'Matej Bukovinski' => 'matej@bukovinski.com' }
   s.source       = {
     :git => 'https://github.com/matej/MBProgressHUD.git',
-    :tag => '0.7'
+    :tag => s.version.to_s
   }
   s.platform     = :ios
   s.source_files = '*.{h,m}'
