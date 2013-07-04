@@ -1,6 +1,6 @@
 Pod::Spec.new do |s|
   s.name     = 'KVOBlockBinding'
-  s.license  = { :type => 'MIT' :file => 'LICENSE.md' }
+  s.license  = { :type => 'MIT', :file => 'LICENSE.md' }
   s.version  = '0.0.1'
   s.summary  = 'Use blocks to observe Objective-C properties using KVO.'
   s.homepage = 'https://github.com/rayh/kvo-block-binding'
