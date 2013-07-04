@@ -6,9 +6,10 @@ Pod::Spec.new do |s|
   s.homepage = 'https://github.com/rayh/kvo-block-binding'
   s.author   = { 'Ray Yamamoto Hilton' => 'ray@wirestorm.net' }
   s.source   = {
-    :git => 'https://github.com/rayh/kvo-block-binding.git',
+    :git    => 'https://github.com/rayh/kvo-block-binding.git',
     :commit => '010599ac17a08c2af2670c273f53eec065f6564a'
   }
   s.platform = :ios
+  s.requires_arc = true
   s.source_files = 'KVOBlockBinding'
 end
