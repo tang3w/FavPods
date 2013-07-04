@@ -7,7 +7,7 @@ Pod::Spec.new do |s|
   s.author   = { 'Yann Lechelle' => 'ylechelle@gmail.com' }
   s.source   = {
     :git => 'https://github.com/ylechelle/OpenUDID.git',
-    :tag => '1.0.0'
+    :commit => '3d6d5d216cd6b1f8aa3bacec4a2071bd60e84585'
   }
   s.platform = :ios
   s.source_files = '*.{h,m}'
