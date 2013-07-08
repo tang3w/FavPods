@@ -20,6 +20,7 @@ pod 'NSHash',              :podspec => 'FavPods/PodSpecs/NSHash.podspec'
 pod 'CocoaAsyncSocket',    :podspec => 'FavPods/PodSpecs/CocoaAsyncSocket.podspec'
 pod 'Reachability',        :podspec => 'FavPods/PodSpecs/Reachability.podspec'
 pod 'AHEasing',            :podspec => 'FavPods/PodSpecs/AHEasing.podspec'
+pod 'ObjectiveSugar',      :podspec => 'FavPods/PodSpecs/ObjectiveSugar.podspec'
 # }}}
 
 # Control {{{
