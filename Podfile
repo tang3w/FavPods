@@ -10,6 +10,7 @@ pod 'BlockInjection',      :podspec => 'FavPods/PodSpecs/BlockInjection.podspec'
 # Utility {{{
 pod 'KVOBlockBinding',     :podspec => 'FavPods/PodSpecs/KVOBlockBinding.podspec'
 pod 'JSONKit',             :podspec => 'FavPods/PodSpecs/JSONKit.podspec'
+pod 'JSONModel',           :podspec => 'FavPods/PodSpecs/JSONModel.podspec'
 pod 'RegexKitLite',        :podspec => 'FavPods/PodSpecs/RegexKitLite.podspec'
 pod 'OpenUDID',            :podspec => 'FavPods/PodSpecs/OpenUDID.podspec'
 pod 'AFNetworking',        :podspec => 'FavPods/PodSpecs/AFNetworking.podspec'
