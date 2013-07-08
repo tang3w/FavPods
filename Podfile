@@ -17,6 +17,7 @@ pod 'AFNetworking',        :podspec => 'FavPods/PodSpecs/AFNetworking.podspec'
 pod 'EDColor',             :podspec => 'FavPods/PodSpecs/EDColor.podspec'
 pod 'NSHash',              :podspec => 'FavPods/PodSpecs/NSHash.podspec'
 pod 'CocoaAsyncSocket',    :podspec => 'FavPods/PodSpecs/CocoaAsyncSocket.podspec'
+pod 'Reachability',        :podspec => 'FavPods/PodSpecs/Reachability.podspec'
 # }}}
 
 # Control {{{
