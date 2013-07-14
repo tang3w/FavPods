@@ -27,6 +27,7 @@ pod 'JWLayoutViews',          :podspec => 'FavPods/PodSpecs/JWLayoutViews.podspe
 pod 'BCGenieEffect',          :podspec => 'FavPods/PodSpecs/BCGenieEffect.podspec'
 pod 'KGNoise',                :podspec => 'FavPods/PodSpecs/KGNoise.podspec'
 pod 'UIView+EasingFunctions', :podspec => 'FavPods/PodSpecs/UIView+EasingFunctions.podspec'
+pod 'CPAnimationSequence',    :podspec => 'FavPods/PodSpecs/CPAnimationSequence.podspec'
 # }}}
 
 # Control {{{
