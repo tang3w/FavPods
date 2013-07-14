@@ -23,7 +23,7 @@ pod 'AHEasing',            :podspec => 'FavPods/PodSpecs/AHEasing.podspec'
 pod 'ObjectiveSugar',      :podspec => 'FavPods/PodSpecs/ObjectiveSugar.podspec'
 pod 'BlocksKit',           :podspec => 'FavPods/PodSpecs/BlocksKit.podspec'
 pod 'OCMode',              :podspec => 'FavPods/PodSpecs/OCMode.podspec'
-pod 'JWLayoutManager',     :podspec => 'FavPods/PodSpecs/JWLayoutManager.podspec'
+pod 'JWLayoutViews',       :podspec => 'FavPods/PodSpecs/JWLayoutViews.podspec'
 # }}}
 
 # Control {{{
