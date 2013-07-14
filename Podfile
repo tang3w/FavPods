@@ -25,6 +25,7 @@ pod 'BlocksKit',           :podspec => 'FavPods/PodSpecs/BlocksKit.podspec'
 pod 'OCMode',              :podspec => 'FavPods/PodSpecs/OCMode.podspec'
 pod 'JWLayoutViews',       :podspec => 'FavPods/PodSpecs/JWLayoutViews.podspec'
 pod 'BCGenieEffect',       :podspec => 'FavPods/PodSpecs/BCGenieEffect.podspec'
+pod 'KGNoise',             :podspec => 'FavPods/PodSpecs/KGNoise.podspec'
 # }}}
 
 # Control {{{
