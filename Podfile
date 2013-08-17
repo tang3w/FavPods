@@ -6,6 +6,7 @@ pod 'Objection',              :podspec => 'FavPods/PodSpecs/Objection.podspec'
 pod 'JRSwizzle',              :podspec => 'FavPods/PodSpecs/JRSwizzle.podspec'
 pod 'BlockInjection',         :podspec => 'FavPods/PodSpecs/BlockInjection.podspec'
 pod 'libextobjc/EXTScope',    :podspec => 'FavPods/PodSpecs/libextobjc.podspec'
+pod 'Eigen',                  :podspec => 'FavPods/PodSpecs/Eigen.podspec'
 # }}}
 
 # Utility {{{
@@ -28,6 +29,7 @@ pod 'BCGenieEffect',          :podspec => 'FavPods/PodSpecs/BCGenieEffect.podspe
 pod 'KGNoise',                :podspec => 'FavPods/PodSpecs/KGNoise.podspec'
 pod 'UIView+EasingFunctions', :podspec => 'FavPods/PodSpecs/UIView+EasingFunctions.podspec'
 pod 'CPAnimationSequence',    :podspec => 'FavPods/PodSpecs/CPAnimationSequence.podspec'
+pod 'Mantle',                 :podspec => 'FavPods/PodSpecs/Mantle.podspec'
 # }}}
 
 # Control {{{
